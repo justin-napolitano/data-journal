@@ -19,6 +19,13 @@ seoSecondaryKeywords:
   - data analytics
   - markdown reports
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a Python-based static site generator for organizing and presenting analytics
+  reports. It references inspirations like Sphinx and focuses on static site generation, templates,
+  and markdown content structuring, which aligns closely with the 'Static' topic family emphasizing
+  static site and blog projects.
 ---
 
 # data-journal: Technical Overview and Implementation Notes
@@ -63,3 +70,4 @@ The project probably includes a main script (`generate_site.py` assumed) that or
 ## Summary
 
 data-journal is a pragmatic approach to bridging the gap between raw analytics outputs and polished, shareable documentation. Its design philosophy emphasizes simplicity, extensibility, and alignment with existing data workflows. Returning to this project, focus should be on expanding content support and refining the generation pipeline to accommodate evolving analytics presentation needs.
+
