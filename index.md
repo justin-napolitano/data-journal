@@ -1,12 +1,25 @@
 ---
-slug: "github-data-journal"
-title: "data-journal"
-repo: "justin-napolitano/data-journal"
-githubUrl: "https://github.com/justin-napolitano/data-journal"
-generatedAt: "2025-11-23T08:50:31.402908Z"
-source: "github-auto"
+slug: github-data-journal
+title: 'data-journal: Static Site Generator for Analytics Reports'
+repo: justin-napolitano/data-journal
+githubUrl: https://github.com/justin-napolitano/data-journal
+generatedAt: '2025-11-23T08:50:31.402908Z'
+source: github-auto
+summary: >-
+  Overview of data-journal, a Python-based static site generator tailored to organize and present
+  analytical reports using Markdown and templates.
+tags:
+  - static-site-generator
+  - python
+  - data-analytics
+  - markdown
+  - documentation
+seoPrimaryKeyword: static site generator
+seoSecondaryKeywords:
+  - data analytics
+  - markdown reports
+seoOptimized: true
 ---
-
 
 # data-journal: Technical Overview and Implementation Notes
 
