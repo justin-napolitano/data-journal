@@ -1,20 +1,30 @@
 ---
 slug: github-data-journal
 id: github-data-journal
-title: data-journal
+title: Static Site Generator for Data Analytics Projects
 repo: justin-napolitano/data-journal
 githubUrl: https://github.com/justin-napolitano/data-journal
 generatedAt: '2025-11-24T21:34:30.158Z'
 source: github-auto
 summary: >-
-  A lightweight, Sphinx-inspired static website generator designed to host and
-  present analytics projects and reports. This tool aims to provide a simple
-  framework for organizing, documenting, and sharing data analysis outputs in a
-  web-friendly format.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A lightweight tool for generating static websites to host and share data
+  analysis projects and reports.
+tags:
+  - static site generator
+  - data analytics
+  - python
+  - markdown
+  - sphinx
+  - web development
+  - data visualization
+seoPrimaryKeyword: static site generator for analytics
+seoSecondaryKeywords:
+  - data journal
+  - python static site generator
+  - analytics reporting tool
+  - markdown site generator
+  - data analysis documentation
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
