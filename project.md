@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/data-journal
 generatedAt: '2025-11-24T21:34:30.158Z'
 source: github-auto
 summary: >-
-  A lightweight tool for generating static websites to host and share data
-  analysis projects and reports.
+  A lightweight static site generator for organizing and sharing data analysis
+  projects using Python and Markdown.
 tags:
   - static site generator
   - data analytics
@@ -17,13 +17,18 @@ tags:
   - sphinx
   - web development
   - data visualization
-seoPrimaryKeyword: static site generator for analytics
+  - data analysis
+  - Sphinx
+  - Python
+  - Markdown
+  - analytics reporting
+seoPrimaryKeyword: static site generator for data analytics
 seoSecondaryKeywords:
-  - data journal
-  - python static site generator
-  - analytics reporting tool
-  - markdown site generator
-  - data analysis documentation
+  - Python static site generator
+  - data journal tool
+  - analytics project documentation
+  - Markdown site generation
+  - data visualization integration
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
