@@ -1,31 +1,43 @@
 ---
 slug: github-data-journal
-title: 'data-journal: Static Site Generator for Analytics Reports'
+title: 'Data Journal: Static Site Generator for Analytics Reports'
 repo: justin-napolitano/data-journal
 githubUrl: https://github.com/justin-napolitano/data-journal
 generatedAt: '2025-11-23T08:50:31.402908Z'
 source: github-auto
 summary: >-
-  Overview of data-journal, a Python-based static site generator tailored to organize and present
-  analytical reports using Markdown and templates.
+  Explore the data-journal project, a static site generator designed for
+  documenting and sharing analytics outputs in a cohesive format.
 tags:
   - static-site-generator
   - python
   - data-analytics
   - markdown
   - documentation
-seoPrimaryKeyword: static site generator
-seoSecondaryKeywords:
+  - static site generator
   - data analytics
-  - markdown reports
+  - Sphinx
+  - Python
+  - data visualization
+  - Jupyter integration
+seoPrimaryKeyword: static site generator for analytics
+seoSecondaryKeywords:
+  - data documentation tool
+  - analytics reporting
+  - Markdown site generator
+  - data science workflows
+  - static website deployment
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post describes a Python-based static site generator for organizing and presenting analytics
-  reports. It references inspirations like Sphinx and focuses on static site generation, templates,
-  and markdown content structuring, which aligns closely with the 'Static' topic family emphasizing
+  The post describes a Python-based static site generator for organizing and
+  presenting analytics reports. It references inspirations like Sphinx and
+  focuses on static site generation, templates, and markdown content
+  structuring, which aligns closely with the 'Static' topic family emphasizing
   static site and blog projects.
+kind: project
+id: github-data-journal
 ---
 
 # data-journal: Technical Overview and Implementation Notes
