@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/data-journal
 generatedAt: '2025-11-24T21:34:30.158Z'
 source: github-auto
 summary: >-
-  A lightweight static site generator for organizing and sharing data analysis
-  projects using Python and Markdown.
+  A lightweight static site generator for organizing and sharing data analysis projects using Python
+  and Markdown.
 tags:
   - static site generator
   - data analytics
@@ -30,8 +30,8 @@ seoSecondaryKeywords:
   - Markdown site generation
   - data visualization integration
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -109,3 +109,4 @@ python generate_site.py  # assumed command
 ---
 
 *Note: Several assumptions are made due to limited repository details.*
+
